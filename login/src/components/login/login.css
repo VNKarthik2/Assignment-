@@ -1,0 +1,64 @@
+
+#right{
+    float: right;
+    width: 55%;
+}
+
+
+.login {
+    width:  35%;   
+    padding: 1rem;
+    align-items: left;
+    text-align: left;
+    float: left;
+}
+.login >label
+{
+    padding: 4px;
+    color:  #1d0346;
+    font-weight: 300;
+    font-size: 0.55cm;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.login >  input {
+    padding: 4px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+    margin: 0.5rem 0;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #1e0564;
+    border: 1px solid #4c0a9c;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px; 
+    outline: none;
+    cursor: pointer;
+    width: 60%;
+    height: 25px;
+}
+
+
+.login > .ln{
+    background: #1e0564;
+    border: 1px solid #4c0a9c;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px; 
+    outline: none;
+    cursor: pointer;
+    width: 30%;
+    height: 25px;
+}
+

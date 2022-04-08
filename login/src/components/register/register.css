@@ -1,0 +1,72 @@
+
+#full{
+    padding-left: 6%;
+}
+
+#first{
+    
+}
+
+.inputs{
+    padding: 3px;
+}
+.register {
+    width:  35%;   
+    padding: 1rem;
+    align-items: left;
+    text-align: left;
+    float: left;
+}
+
+#right{
+    float: right;
+    width: 55%;
+}
+.register >label
+{
+    padding: 4px;
+    color:  #1d0346;
+    font-weight: 300;
+    font-size: 0.55cm;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.register  input {
+    padding: 4px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+    margin: 0.5rem 0;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.register > .button {
+    background: #1e0564;
+    border: 1px solid #4c0a9c;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px; 
+    outline: none;
+    cursor: pointer;
+    width: 60%;
+    height: 25px;
+}
+
+.register > .ln{
+    background: #1e0564;
+    border: 1px solid #4c0a9c;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px; 
+    outline: none;
+    cursor: pointer;
+    width: 30%;
+    height: 25px;
+}
