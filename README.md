@@ -5,7 +5,7 @@ How to run the program :-
 Step 1:-   download the folder and open the folder  and install npm modules
 
 ```
-node install 
+npm i 
 ```
 
 Step 2 :-  Now run the MongoDB.js file for database
